@@ -1,0 +1,10 @@
+C:\Users\BurcuAla\Desktop\PHS\PHS.Libraries\PHS.Lib\PHS.Lib.Auth\bin\Debug\PHS.Lib.Auth.dll
+C:\Users\BurcuAla\Desktop\PHS\PHS.Libraries\PHS.Lib\PHS.Lib.Auth\bin\Debug\PHS.Lib.Auth.pdb
+C:\Users\BurcuAla\Desktop\PHS\PHS.Libraries\PHS.Lib\PHS.Lib.Auth\bin\Debug\Newtonsoft.Json.dll
+C:\Users\BurcuAla\Desktop\PHS\PHS.Libraries\PHS.Lib\PHS.Lib.Auth\bin\Debug\PHS.Lib.dll
+C:\Users\BurcuAla\Desktop\PHS\PHS.Libraries\PHS.Lib\PHS.Lib.Auth\bin\Debug\PHS.Lib.pdb
+C:\Users\BurcuAla\Desktop\PHS\PHS.Libraries\PHS.Lib\PHS.Lib.Auth\bin\Debug\Newtonsoft.Json.xml
+C:\Users\BurcuAla\Desktop\PHS\PHS.Libraries\PHS.Lib\PHS.Lib.Auth\obj\Debug\PHS.Lib.Auth.csprojResolveAssemblyReference.cache
+C:\Users\BurcuAla\Desktop\PHS\PHS.Libraries\PHS.Lib\PHS.Lib.Auth\obj\Debug\PHS.Lib.Auth.csproj.CoreCompileInputs.cache
+C:\Users\BurcuAla\Desktop\PHS\PHS.Libraries\PHS.Lib\PHS.Lib.Auth\obj\Debug\PHS.Lib.Auth.dll
+C:\Users\BurcuAla\Desktop\PHS\PHS.Libraries\PHS.Lib\PHS.Lib.Auth\obj\Debug\PHS.Lib.Auth.pdb

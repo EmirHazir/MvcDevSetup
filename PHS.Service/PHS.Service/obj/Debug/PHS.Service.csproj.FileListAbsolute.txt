@@ -1,0 +1,6 @@
+C:\Users\BurcuAla\Desktop\PHS\PHS.Service\PHS.Service\bin\Debug\PHS.Service.dll
+C:\Users\BurcuAla\Desktop\PHS\PHS.Service\PHS.Service\bin\Debug\PHS.Service.pdb
+C:\Users\BurcuAla\Desktop\PHS\PHS.Service\PHS.Service\obj\Debug\PHS.Service.csprojResolveAssemblyReference.cache
+C:\Users\BurcuAla\Desktop\PHS\PHS.Service\PHS.Service\obj\Debug\PHS.Service.csproj.CoreCompileInputs.cache
+C:\Users\BurcuAla\Desktop\PHS\PHS.Service\PHS.Service\obj\Debug\PHS.Service.dll
+C:\Users\BurcuAla\Desktop\PHS\PHS.Service\PHS.Service\obj\Debug\PHS.Service.pdb

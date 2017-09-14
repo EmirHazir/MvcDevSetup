@@ -1,0 +1,15 @@
+C:\Users\BurcuAla\Desktop\PHS\PSH.DAL\PSH.DAL\bin\Debug\PSH.DAL.dll.config
+C:\Users\BurcuAla\Desktop\PHS\PSH.DAL\PSH.DAL\bin\Debug\PSH.DAL.dll
+C:\Users\BurcuAla\Desktop\PHS\PSH.DAL\PSH.DAL\bin\Debug\PSH.DAL.pdb
+C:\Users\BurcuAla\Desktop\PHS\PSH.DAL\PSH.DAL\bin\Debug\EntityFramework.dll
+C:\Users\BurcuAla\Desktop\PHS\PSH.DAL\PSH.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\BurcuAla\Desktop\PHS\PSH.DAL\PSH.DAL\bin\Debug\EntityFramework.xml
+C:\Users\BurcuAla\Desktop\PHS\PSH.DAL\PSH.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\BurcuAla\Desktop\PHS\PSH.DAL\PSH.DAL\obj\Debug\PSH.DAL.csprojResolveAssemblyReference.cache
+C:\Users\BurcuAla\Desktop\PHS\PSH.DAL\PSH.DAL\obj\Debug\PSH.DAL.csproj.CoreCompileInputs.cache
+C:\Users\BurcuAla\Desktop\PHS\PSH.DAL\PSH.DAL\obj\Debug\PSH.DAL.dll
+C:\Users\BurcuAla\Desktop\PHS\PSH.DAL\PSH.DAL\obj\Debug\PSH.DAL.pdb
+C:\Users\BurcuAla\Desktop\PHS\PSH.DAL\PSH.DAL\bin\Debug\PHS.Lib.dll
+C:\Users\BurcuAla\Desktop\PHS\PSH.DAL\PSH.DAL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\BurcuAla\Desktop\PHS\PSH.DAL\PSH.DAL\bin\Debug\PHS.Lib.pdb
+C:\Users\BurcuAla\Desktop\PHS\PSH.DAL\PSH.DAL\bin\Debug\Newtonsoft.Json.xml

@@ -1,0 +1,5 @@
+C:\Users\BurcuAla\Desktop\PHS\PHS.Service\PHS.Service\PHS.Service.Auth\bin\Debug\PHS.Service.Auth.dll
+C:\Users\BurcuAla\Desktop\PHS\PHS.Service\PHS.Service\PHS.Service.Auth\bin\Debug\PHS.Service.Auth.pdb
+C:\Users\BurcuAla\Desktop\PHS\PHS.Service\PHS.Service\PHS.Service.Auth\obj\Debug\PHS.Service.Auth.csproj.CoreCompileInputs.cache
+C:\Users\BurcuAla\Desktop\PHS\PHS.Service\PHS.Service\PHS.Service.Auth\obj\Debug\PHS.Service.Auth.dll
+C:\Users\BurcuAla\Desktop\PHS\PHS.Service\PHS.Service\PHS.Service.Auth\obj\Debug\PHS.Service.Auth.pdb
